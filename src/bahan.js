@@ -1,6 +1,6 @@
 const listbahan = [
     {
-        Nama: 'Kangkung',
+        Nama: 'Bayam',
         Harga: 5000,
         Jumlah: 1
     },
